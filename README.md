@@ -9,3 +9,7 @@ https://github.com/catppuccin/rofi.git
 
 speed-test
 https://github.com/haideralipunjabi/polybar-speedtest.git
+
+
+volumen control
+https://github.com/marioortizmanero/polybar-pulseaudio-control.git
